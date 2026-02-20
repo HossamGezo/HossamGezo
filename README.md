@@ -45,8 +45,12 @@
 
 ## 📊 My GitHub Stats:
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HossamGezo&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HossamGezo&theme=radical&hide_border=true" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HossamGezo&show_icons=true&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HossamGezo&theme=radical&hide_border=true" />
+  </a>
 </p>
 
 ### 🐍 Contribution Activity
