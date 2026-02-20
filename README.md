@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y2Z2swY3A1eHhkZ3R2cjNndW5oM3B6Z3R2cjNndW5oM3B6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIw/giphy.gif" width="45"> Hi 👋, I'm Hossam Gouda
+# <img src="https://raw.githubusercontent.com/MartinSchoeler/MartinSchoeler/master/waving-hand.gif" width="35px">Hi 👋, I'm Hossam Gouda
 
 ### 👨‍💻 Full Stack Web Developer | Node.js & React Specialist
 
@@ -45,11 +45,11 @@
 
 ## 📊 My GitHub Stats:
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HossamGezo&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HossamGezo&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HossamGezo&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HossamGezo&theme=radical&hide_border=true" />
 </p>
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Activity
 <div align="center">
   <img src="https://raw.githubusercontent.com/HossamGezo/HossamGezo/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
