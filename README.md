@@ -54,8 +54,8 @@
 
 <p align="center">
 <a href="https://github.com/HossamGezo">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HossamGezo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HossamGezo&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HossamGezo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HossamGezo&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -63,7 +63,11 @@
 
 <!-- PACMAN AREA -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HossamGezo/HossamGezo/pacman/pacman-contribution-graph.svg" alt="Pacman Game" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HossamGezo/HossamGezo/pacman/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HossamGezo/HossamGezo/pacman/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HossamGezo/HossamGezo/pacman/pacman-contribution-graph.svg">
+  </picture>
 </p>
 
 ---
