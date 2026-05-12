@@ -36,19 +36,15 @@
 ### ⚙️ GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HossamGezo&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HossamGezo&layout=compact&langs_count=8&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HossamGezo&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HossamGezo&layout=compact&theme=dark" />
 </p>
 
 ---
 
-<!-- PACMAN CONTRIBUTION GRAPH -->
+<!-- PACMAN AREA -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HossamGezo/HossamGezo/pacman/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HossamGezo/HossamGezo/pacman/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HossamGezo/HossamGezo/pacman/pacman-contribution-graph.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/HossamGezo/HossamGezo/pacman/pacman-contribution-graph.svg" alt="Pacman Game" />
 </p>
 
 ---
