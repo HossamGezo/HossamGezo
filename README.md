@@ -42,7 +42,7 @@
 
 ---
 
-<!-- PACMAN / SNAKE AREA -->
+<!-- PACMAN CONTRIBUTION GRAPH -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HossamGezo/HossamGezo/pacman/pacman-contribution-graph-dark.svg">
